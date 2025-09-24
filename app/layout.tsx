@@ -41,7 +41,7 @@ export const metadata: Metadata = {
   authors: [
     {
       name: "Noel Owolabi",
-      url: "https://meetnoel.app",
+      url: "https://meetnoel.live",
     },
   ],
   creator: "Noel Owolabi",

@@ -1,6 +1,6 @@
 export const siteConfig = {
-  name: "meetnoel.app",
-  url: "https://meetnoel.app",
+  name: "meetnoel.live",
+  url: "https://meetnoel.live",
   description: "Portfolio of Noel Owolabi",
   links: {
     shadcn: "https://ui.shadcn.com/",
